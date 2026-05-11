@@ -65,9 +65,6 @@ The project demonstrates strong skills in:
 - Major functional and UI issues
 - Minor UI and accessibility defects
 
-✅ Demonstrates full defect lifecycle handling  
-✅ Includes re‑testing and validation discipline  
-
 ---
 
 ## 🔗 Traceability (RTM)
@@ -112,11 +109,6 @@ This portfolio reflects:
 - Clear defect justification
 - Professional test reporting
 - Strong understanding of QA fundamentals
-
-It is suitable for:
-✅ Manual Tester  
-✅ QA Engineer  
-✅ Functional Tester roles  
 
 
 ---
